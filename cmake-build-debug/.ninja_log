@@ -1,7 +1,7 @@
 # ninja log v5
 3	1026	7310847972174377	CMakeFiles/Yandexpract.dir/let2.cpp.obj	3b3c2308d9d3dbd5
 2	98	7291906688961832	CMakeFiles/Yandexpract.dir/1.cpp.obj	fe55bf6ba77e3e8a
-1	118	7326530348210393	build.ninja	a08bf78e59acfc6
+1	118	7326545570607491	build.ninja	a08bf78e59acfc6
 1315	1479	7321223807927954	Yandexpract.exe	c2f40fc9e9255d31
 1	247	7291926256561241	CMakeFiles/Yandexpract.dir/4.cpp.obj	c798c33250afe98b
 1	252	7291919954797494	CMakeFiles/Yandexpract.dir/2.cpp.obj	cd2cb3504c2b66e6
@@ -23,3 +23,7 @@
 1	700	7315025232611395	CMakeFiles/Yandexpract.dir/soundex.cpp.obj	c8e4055c53335fad
 4	850	7306616398309948	CMakeFiles/Yandexpract.dir/file.cpp.obj	90b224ce69816883
 13	1314	7321223806254120	CMakeFiles/Yandexpract.dir/algoritmA.cpp.obj	f734dd971ec49baf
+25	1173	7326575880748974	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	e3f62b914b9f7fe6
+17	5723	7326575926012878	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	8b0f202a55371cc3
+22	2488	7326610400989423	lib/libgtest.a	130c3945852db382
+19	112	7326612081716793	lib/libgtest_main.a	f57645cfec27da1b
