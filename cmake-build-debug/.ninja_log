@@ -1,0 +1,25 @@
+# ninja log v5
+3	1026	7310847972174377	CMakeFiles/Yandexpract.dir/let2.cpp.obj	3b3c2308d9d3dbd5
+2	98	7291906688961832	CMakeFiles/Yandexpract.dir/1.cpp.obj	fe55bf6ba77e3e8a
+1	118	7326530348210393	build.ninja	a08bf78e59acfc6
+1315	1479	7321223807927954	Yandexpract.exe	c2f40fc9e9255d31
+1	247	7291926256561241	CMakeFiles/Yandexpract.dir/4.cpp.obj	c798c33250afe98b
+1	252	7291919954797494	CMakeFiles/Yandexpract.dir/2.cpp.obj	cd2cb3504c2b66e6
+2	251	7291921356598535	CMakeFiles/Yandexpract.dir/3.cpp.obj	fcaaf8ca0f0648f8
+2	304	7291935595528202	CMakeFiles/Yandexpract.dir/testswitch.cpp.obj	b0dc4ba4db7ed265
+2	278	7291939033505044	CMakeFiles/Yandexpract.dir/while.cpp.obj	b2ad5200909d1296
+2	285	7291943697841748	CMakeFiles/Yandexpract.dir/for.cpp.obj	d7e06598316d5540
+2	254	7291961779614284	CMakeFiles/Yandexpract.dir/ferz.cpp.obj	96d691e9da5acf7e
+1	258	7291974236797586	CMakeFiles/Yandexpract.dir/treygolnik.cpp.obj	505d47c56e95d729
+2	279	7293706878182433	CMakeFiles/Yandexpract.dir/mycalendar.cpp.obj	a2d099096d59a0e6
+2	365	7292500937804652	CMakeFiles/Yandexpract.dir/visgod.cpp.obj	4dbdc4549a3aec31
+2	509	7292710131690659	CMakeFiles/Yandexpract.dir/mes9c.cpp.obj	3919a31002e1b62e
+2	289	7293696244392476	CMakeFiles/Yandexpract.dir/calendar.cpp.obj	e3b9701aa721169d
+2	264	7293725177187043	CMakeFiles/Yandexpract.dir/summcifr.cpp.obj	1055eacd27185367
+2	281	7293854391455615	CMakeFiles/Yandexpract.dir/logarifm.cpp.obj	b2bc57f1e1d528fd
+2	298	7294556675505678	CMakeFiles/Yandexpract.dir/VECTORANDSTRING.cpp.obj	6e1f40e5860d0ce0
+26	616	7298545883072153	CMakeFiles/Yandexpract.dir/passwords.cpp.obj	32cd14ac69665cae
+0	348	7298560709195205	CMakeFiles/Yandexpract.dir/vectorpass.cpp.obj	c4c029c91cec8bed
+1	700	7315025232611395	CMakeFiles/Yandexpract.dir/soundex.cpp.obj	c8e4055c53335fad
+4	850	7306616398309948	CMakeFiles/Yandexpract.dir/file.cpp.obj	90b224ce69816883
+13	1314	7321223806254120	CMakeFiles/Yandexpract.dir/algoritmA.cpp.obj	f734dd971ec49baf
